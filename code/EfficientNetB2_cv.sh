@@ -1,0 +1,5 @@
+python3 EfficientNetB2_cv1.py
+python3 EfficientNetB2_cv2.py
+python3 EfficientNetB2_cv3.py
+python3 EfficientNetB2_cv4.py
+python3 EfficientNetB2_cv5.py
